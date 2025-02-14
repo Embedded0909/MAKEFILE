@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "lm35.h": "c",
-        "hellomake.h": "c",
-        "core.h": "c",
-        "lib.h": "c"
-    }
-}
